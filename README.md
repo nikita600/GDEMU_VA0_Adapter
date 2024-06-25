@@ -7,4 +7,4 @@ BOM:\
   R1-R5 - 10K (0402)
   
   
-![3D Preview](https://user-images.githubusercontent.com/510482/236627099-c294c07d-17f1-419e-8c21-d5dc7b2fa588.png)
+![3D Preview](https://github.com/nikita600/GDEMU_VA0_Adapter/assets/510482/462fa5f0-28d6-44a6-b6d2-3f3fe72face4)
